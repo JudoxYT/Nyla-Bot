@@ -1,0 +1,474 @@
+{
+  "plan": null,
+  "backup": {
+    "934215931410939934": {
+      "kind": "category",
+      "name": "Staff"
+    },
+    "934216351206219806": {
+      "kind": "category",
+      "name": "logs"
+    },
+    "1048334046108848158": {
+      "kind": "category",
+      "name": "support"
+    },
+    "1050168221166207056": {
+      "kind": "category",
+      "name": "Skydox"
+    },
+    "1099395943700369439": {
+      "kind": "category",
+      "name": "Archive"
+    },
+    "1099416772148465664": {
+      "kind": "category",
+      "name": "Announcements"
+    },
+    "1113186040539262987": {
+      "kind": "category",
+      "name": "Info"
+    },
+    "1113203834030932028": {
+      "kind": "category",
+      "name": "Community"
+    },
+    "1113378193756405820": {
+      "kind": "category",
+      "name": "Voice Channels"
+    },
+    "931673998604001282": {
+      "kind": "text",
+      "name": "│╴💵・chit-chat"
+    },
+    "934215876150960149": {
+      "kind": "text",
+      "name": "╭╴🌴・discord-updates"
+    },
+    "934216125481377862": {
+      "kind": "text",
+      "name": "│╴🌱・staff-commands"
+    },
+    "934217526622175272": {
+      "kind": "text",
+      "name": "╭╴📗・msg-logs"
+    },
+    "934217765789782076": {
+      "kind": "text",
+      "name": "│╴📕・member-logs"
+    },
+    "934218020128190544": {
+      "kind": "text",
+      "name": "│╴📘・joins-leaves"
+    },
+    "934218612015784047": {
+      "kind": "text",
+      "name": "╭╴👋・welkom"
+    },
+    "934219844713345064": {
+      "kind": "text",
+      "name": "│╴💶・commands"
+    },
+    "934219896953405581": {
+      "kind": "text",
+      "name": "╰╴💷・level-updates"
+    },
+    "934230520894742590": {
+      "kind": "text",
+      "name": "✅・verify"
+    },
+    "934230885455257711": {
+      "kind": "text",
+      "name": "╰╴📜・rules"
+    },
+    "936004259223318528": {
+      "kind": "text",
+      "name": "╰╴📙・auto-mod"
+    },
+    "1044697766472990730": {
+      "kind": "text",
+      "name": "│╴💻・skydox-server-chat"
+    },
+    "1048317387172225186": {
+      "kind": "text",
+      "name": "│╴📝・tickets"
+    },
+    "1048329398639657052": {
+      "kind": "text",
+      "name": "│╴📔・tickettool"
+    },
+    "1049765133225828393": {
+      "kind": "text",
+      "name": "╰╴🕙・skydox-restarts"
+    },
+    "1050167577420247110": {
+      "kind": "text",
+      "name": "╭╴📝・skydox-info"
+    },
+    "1050195831925526701": {
+      "kind": "text",
+      "name": "│╴💎・skydox-commands"
+    },
+    "1051930582776565850": {
+      "kind": "text",
+      "name": "│╴👀・skydox-joins-leaves"
+    },
+    "1053675831400091718": {
+      "kind": "text",
+      "name": "│╴💬・skydox-chat"
+    },
+    "1098560639632416788": {
+      "kind": "text",
+      "name": "partner-mededeling"
+    },
+    "1099416842184962248": {
+      "kind": "text",
+      "name": "│╴🎥・streams"
+    },
+    "1099417098498879569": {
+      "kind": "text",
+      "name": "│╴📹・videos"
+    },
+    "1104147791774744598": {
+      "kind": "text",
+      "name": "│╴🛒・shop"
+    },
+    "1104403799357009922": {
+      "kind": "text",
+      "name": "│╴🎬・clips"
+    },
+    "1110264757585465344": {
+      "kind": "text",
+      "name": "│╴🌿・staff-chat"
+    },
+    "1113186314498609284": {
+      "kind": "text",
+      "name": "╭╴📢・announcements"
+    },
+    "1113204194380369992": {
+      "kind": "text",
+      "name": "│╴🙄・chat"
+    },
+    "1113204404972158977": {
+      "kind": "text",
+      "name": "│╴✍🏻・commands"
+    },
+    "1113204639517642752": {
+      "kind": "text",
+      "name": "╭╴🖐🏻・arrivals"
+    },
+    "1113205725821415525": {
+      "kind": "text",
+      "name": "╰╴📈・level-up"
+    },
+    "1113210207753994301": {
+      "kind": "text",
+      "name": "│╴🎉・giveaways"
+    },
+    "1113214147887374400": {
+      "kind": "text",
+      "name": "│╴📌・media"
+    },
+    "1113217287462342687": {
+      "kind": "text",
+      "name": "│╴🌿・informatie"
+    },
+    "1532377899246682162": {
+      "kind": "text",
+      "name": "│╴🏆・donators"
+    },
+    "1532378268492107856": {
+      "kind": "text",
+      "name": "│╴📊・polls"
+    },
+    "1532378390005547180": {
+      "kind": "text",
+      "name": "╰╴👑・roles"
+    },
+    "1532378773075267605": {
+      "kind": "text",
+      "name": "│╴📖・socials"
+    },
+    "1534992455227670658": {
+      "kind": "text",
+      "name": "╰╴🎨・colour-roles"
+    },
+    "1051598722234064926": {
+      "kind": "voice",
+      "name": "╰╴🌸・Corner"
+    },
+    "1105201145204457513": {
+      "kind": "voice",
+      "name": "╭╴🔔・Live"
+    },
+    "1113378306675462154": {
+      "kind": "voice",
+      "name": "│╴🔏・Private 1"
+    },
+    "1113378437525143632": {
+      "kind": "voice",
+      "name": "│╴🔞・Private 2"
+    },
+    "1113378553141149716": {
+      "kind": "voice",
+      "name": "│╴🔏・Private 3"
+    },
+    "1113378604538146816": {
+      "kind": "voice",
+      "name": "│╴🔞・Private 4"
+    },
+    "1113378651166216205": {
+      "kind": "voice",
+      "name": "│╴🔏・Private 5"
+    },
+    "1113378764294991932": {
+      "kind": "voice",
+      "name": "│╴🦙・Public"
+    },
+    "1114935712362536990": {
+      "kind": "voice",
+      "name": "╰╴💀・AFK"
+    },
+    "931674846839074838": {
+      "kind": "role",
+      "name": "D.A."
+    },
+    "934212682033270934": {
+      "kind": "role",
+      "name": "「Judox」"
+    },
+    "934212685711695903": {
+      "kind": "role",
+      "name": "「Admin」"
+    },
+    "934212696012906557": {
+      "kind": "role",
+      "name": "⸺⸺⸺ Judox ⸺⸺⸺"
+    },
+    "934212706377027656": {
+      "kind": "role",
+      "name": "ʚ Gang"
+    },
+    "934212711145930753": {
+      "kind": "role",
+      "name": "「Mod」"
+    },
+    "934217563796287539": {
+      "kind": "role",
+      "name": "Bots"
+    },
+    "935963446099451934": {
+      "kind": "role",
+      "name": "Bot"
+    },
+    "935965361055084554": {
+      "kind": "role",
+      "name": "______________"
+    },
+    "935965409411223622": {
+      "kind": "role",
+      "name": "______________"
+    },
+    "935965472183160882": {
+      "kind": "role",
+      "name": "*:｡ Judox Baby (3+)"
+    },
+    "935965607445270558": {
+      "kind": "role",
+      "name": "*:｡ Joesoe Student (10+)"
+    },
+    "935965862064709653": {
+      "kind": "role",
+      "name": "*:｡ Judox Pro (20+)"
+    },
+    "935965951990591491": {
+      "kind": "role",
+      "name": "*:｡ Judox Expert (30+)"
+    },
+    "940745658632138753": {
+      "kind": "role",
+      "name": "Muted"
+    },
+    "994582465589026947": {
+      "kind": "role",
+      "name": "ʚ Small Donator"
+    },
+    "994582706937679892": {
+      "kind": "role",
+      "name": "ʚ Donator"
+    },
+    "994582829935640597": {
+      "kind": "role",
+      "name": "ʚ Large Donator"
+    },
+    "994583120806420602": {
+      "kind": "role",
+      "name": "⸺⸺⸺ Levels ⸺⸺⸺"
+    },
+    "1008646319667163167": {
+      "kind": "role",
+      "name": "⸺⸺⸺ Roles ⸺⸺⸺"
+    },
+    "1008703691303424060": {
+      "kind": "role",
+      "name": "ʚ Ultra Donator"
+    },
+    "1009404531525812235": {
+      "kind": "role",
+      "name": "「Stream Mod」"
+    },
+    "1010624645143212183": {
+      "kind": "role",
+      "name": "______________"
+    },
+    "1010983264896434246": {
+      "kind": "role",
+      "name": "*:｡ Judox Veteran (15+)"
+    },
+    "1010984170534752328": {
+      "kind": "role",
+      "name": "*:｡ Judox Rookie (5+)"
+    },
+    "1011054097132163192": {
+      "kind": "role",
+      "name": "______________"
+    },
+    "1033684582312185866": {
+      "kind": "role",
+      "name": "「Developer」"
+    },
+    "1046526569369321472": {
+      "kind": "role",
+      "name": "*:｡ Judox Master (50+)"
+    },
+    "1054465692251983942": {
+      "kind": "role",
+      "name": "「Helper」"
+    },
+    "1054465887115161714": {
+      "kind": "role",
+      "name": "Virgin"
+    },
+    "1054466862362132481": {
+      "kind": "role",
+      "name": "°˖ ♡︎ Pastel Green"
+    },
+    "1099407853221072967": {
+      "kind": "role",
+      "name": "°˖ ♡︎ Pastel Red"
+    },
+    "1099412455664398419": {
+      "kind": "role",
+      "name": "°˖ ♡︎ Pastel Blue"
+    },
+    "1099412456750719017": {
+      "kind": "role",
+      "name": "°˖ ♡︎ Pastel Pink"
+    },
+    "1099412458126442636": {
+      "kind": "role",
+      "name": "°˖ ♡︎ Pastel Orange"
+    },
+    "1099412459120509081": {
+      "kind": "role",
+      "name": "°˖ ♡︎ Soft Pink"
+    },
+    "1099412461012123658": {
+      "kind": "role",
+      "name": "°˖ ♡︎ Pastel Purple"
+    },
+    "1099412462144602183": {
+      "kind": "role",
+      "name": "°˖ ♡︎ Orange Red"
+    },
+    "1099412463100895312": {
+      "kind": "role",
+      "name": "°˖ ♡︎ Hot Pink"
+    },
+    "1099412795965067306": {
+      "kind": "role",
+      "name": "°˖ ♡︎ Pastel Yellow"
+    },
+    "1099412797877661805": {
+      "kind": "role",
+      "name": "°˖ ♡︎ Banana Yellow"
+    },
+    "1099412799463096392": {
+      "kind": "role",
+      "name": "°˖ ♡︎ Crimson"
+    },
+    "1099412800608141382": {
+      "kind": "role",
+      "name": "°˖ ♡︎ Candy Red"
+    },
+    "1099412801564455106": {
+      "kind": "role",
+      "name": "°˖ ♡︎ Coral"
+    },
+    "1099414357064044584": {
+      "kind": "role",
+      "name": "°˖ ♡︎ Medium Purple"
+    },
+    "1099414358213283870": {
+      "kind": "role",
+      "name": "°˖ ♡︎ Khaki"
+    },
+    "1099414359224102982": {
+      "kind": "role",
+      "name": "°˖ ♡︎ Steel Blue"
+    },
+    "1099414360704692304": {
+      "kind": "role",
+      "name": "°˖ ♡︎ Orchid"
+    },
+    "1099414361384173710": {
+      "kind": "role",
+      "name": "°˖ ♡︎ Deep Sky Blue"
+    },
+    "1099414364483756203": {
+      "kind": "role",
+      "name": "°˖ ♡︎ Lime"
+    },
+    "1099414369391087677": {
+      "kind": "role",
+      "name": "°˖ ♡︎ Dark Magenta"
+    },
+    "1099414370359980094": {
+      "kind": "role",
+      "name": "°˖ ♡︎ Cyan"
+    },
+    "1099414487725002772": {
+      "kind": "role",
+      "name": "°˖ ♡︎ Forest Green"
+    },
+    "1099414488614174850": {
+      "kind": "role",
+      "name": "°˖ ♡︎ Royal Blue"
+    },
+    "1113195315730845726": {
+      "kind": "role",
+      "name": "Updates"
+    },
+    "1113195384068636712": {
+      "kind": "role",
+      "name": "Giveaways"
+    },
+    "1113211966018818218": {
+      "kind": "role",
+      "name": "*:｡ VIP"
+    },
+    "1213850482137759755": {
+      "kind": "role",
+      "name": "Dead Chat"
+    },
+    "1534992528049438890": {
+      "kind": "role",
+      "name": "Colour Role Access"
+    },
+    "1566098326678413523": {
+      "kind": "role",
+      "name": "Nyla's Caretaker"
+    }
+  },
+  "excludedIds": []
+}

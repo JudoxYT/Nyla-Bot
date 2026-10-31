@@ -1,0 +1,14 @@
+{
+  "channelId": "1113204194380369992",
+  "minSpawnSec": 600,
+  "maxSpawnSec": 3600,
+  "despawnSec": 60,
+  "missCooldownSec": 1800,
+  "inactivitySec": 3600,
+  "cmdCooldownSec": 30,
+  "specialChance": 15,
+  "favoriteRoleId": "1566098326678413523",
+  "favoriteHolderId": "1353354479344287836",
+  "hofChannelId": null,
+  "dailyHour": 9
+}
